@@ -1,0 +1,3 @@
+com\trinity\auth\filter\JwtAuthFilter.class
+com\trinity\auth\config\SecurityConfig.class
+com\trinity\auth\boot\AuthApplication.class

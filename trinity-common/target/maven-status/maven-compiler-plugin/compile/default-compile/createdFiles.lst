@@ -1,0 +1,9 @@
+com\trinity\common\config\CorsConfig.class
+com\trinity\common\exception\GlobalExceptionHandler.class
+com\trinity\common\utils\JwtUtils.class
+com\trinity\common\config\MybatisPlusConfig.class
+com\trinity\common\service\BaseService.class
+com\trinity\common\entity\BaseEntity.class
+com\trinity\common\handler\MyMetaObjectHandler.class
+com\trinity\common\exception\BusinessException.class
+com\trinity\common\result\Result.class

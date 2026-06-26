@@ -1,0 +1,22 @@
+server:
+  port: 8090
+
+spring:
+  application:
+    name: trinity-supplies
+  config:
+    import: nacos:trinity-supplies.yaml
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+        namespace: dev
+      config:
+        server-addr: 127.0.0.1:8848
+        namespace: dev
+        file-extension: yaml
+        refresh-enabled: true
+
+logging:
+  level:
+    com.trinity: DEBUG

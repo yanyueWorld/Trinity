@@ -1,0 +1,4 @@
+com\trinity\gateway\config\GatewayCorsConfig.class
+com\trinity\gateway\filter\GlobalLogFilter.class
+com\trinity\gateway\filter\JwtAuthFilter.class
+com\trinity\gateway\boot\GatewayApplication.class

@@ -1,0 +1,4 @@
+F:\ideaWorkspace\trinity\trinity-gateway\src\main\java\com\trinity\gateway\boot\GatewayApplication.java
+F:\ideaWorkspace\trinity\trinity-gateway\src\main\java\com\trinity\gateway\config\GatewayCorsConfig.java
+F:\ideaWorkspace\trinity\trinity-gateway\src\main\java\com\trinity\gateway\filter\GlobalLogFilter.java
+F:\ideaWorkspace\trinity\trinity-gateway\src\main\java\com\trinity\gateway\filter\JwtAuthFilter.java

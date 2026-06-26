@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+      <profile name="Annotation profile for Trinity" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar" />
+        </processorPath>
+        <module name="trinity-employee" />
+        <module name="trinity-training" />
+        <module name="trinity-vehicle" />
+        <module name="trinity-performance" />
+        <module name="trinity-auth" />
+        <module name="trinity-payment" />
+        <module name="trinity-org" />
+        <module name="trinity-salary" />
+        <module name="trinity-supplies" />
+        <module name="trinity-facility" />
+        <module name="trinity-common" />
+        <module name="trinity-expense" />
+        <module name="trinity-system" />
+        <module name="trinity-finance" />
+        <module name="trinity-asset" />
+        <module name="trinity-contract" />
+        <module name="trinity-user" />
+        <module name="trinity-budget" />
+        <module name="trinity-gateway" />
+        <module name="trinity-attendance" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
