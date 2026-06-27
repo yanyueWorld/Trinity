@@ -17,7 +17,6 @@
         <module>trinity-gateway</module>
         <module>trinity-auth</module>
         <module>trinity-system</module>
-        <module>trinity-org</module>
         <module>trinity-employee</module>
         <module>trinity-attendance</module>
         <module>trinity-salary</module>
